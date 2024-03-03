@@ -1,4 +1,8 @@
-site_name: My Docs
+site_name: PeiYang Flyer
 
 theme:
   name: material
+
+nav:
+  - Home: index.md
+  - 内容征集: contribution.md
