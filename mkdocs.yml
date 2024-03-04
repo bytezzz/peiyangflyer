@@ -7,3 +7,8 @@ nav:
   - Home: index.md
   - 内容征集: contribution.md
   - 20级计科刘学长申请经验: christopher.md
+
+extra:
+  analytics:
+    provider: google
+    property: G-5GLZT3Q3F6
