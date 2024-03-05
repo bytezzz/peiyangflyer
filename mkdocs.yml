@@ -2,6 +2,7 @@ site_name: PeiYang Flyer
 
 theme:
   name: material
+  custom_dir: overrides
 
 nav:
   - Home: index.md
