@@ -1,4 +1,34 @@
-# Welcome to PeiyangFlyer
+# 什么是Peiyang Flyer？
 
-北洋飞行者计划 启动！
+Peiyang Flyer是一个开源的、面向天大学生的申请信息综合平台。我们希望能够通过收集和整理天大校友们申请留学的经验和资料，帮助未来的天大学子更好的对自己的求学生涯进行规划，合理的踏上自己的留学之路。
 
+# 在Peiyang Flyer建设初期，我应该参考什么？
+
+由于Peiyang Flyer是一个开源的信息收集网站，对于网站的建设需要依赖天大校友们的贡献，因此在很长的一段时间内可能信息都会相对匮乏。在此我列出了其他大学“飞跃手册”的链接，以供大家参考，内容来自[清华大学飞跃手册的友链页](https://feiyue.online/main/friendlink/)
+
+- [清华大学飞跃数据库](https://database.feiyue.online/)
+- [清华大学飞跃手册](https://feiyue.online/)
+- [清华大学自动化系飞跃手册](https://dagrad.site/) （清华/校友邮箱登录）
+- [Open CS Application](https://opencs.app/)
+- [山东大学飞跃手册](https://sdu-application.github.io/sduapplication.github.io/#/)
+- [中科大飞跃手册](https://www.ustcflyer.com/welcome) （需要登陆）, [2015版](http://www.ustc.global/wp-content/uploads/2016/01/USTC-Fly-Guide-2015.pdf)
+- [上海大学溯源手册-飞跃版块](https://shuosc.github.io/fly/categories/%E7%95%99%E5%AD%A6/)
+- [南科大飞跃手册](https://sustech-application.com/#/), [2019版](https://sustech-application.github.io/2019-Fall/#/?id=%e5%8d%97%e6%96%b9%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%a6%e9%a3%9e%e8%b7%83%e6%89%8b%e5%86%8c-2019-fall)
+- [上海交大飞跃手册](https://survivesjtu.github.io/SJTU-Application/)
+- [华中科大光电飞跃手册](https://hust-feiyue.github.io/)
+- [华中科大电气飞跃手册](https://github.com/LHYi/Feiyue_for_ECE)
+- [浙大数院飞跃手册](http://www.math.zju.edu.cn/_upload/article/files/99/e1/32b8399349af89f05033bf19a32e/4fd486a5-8a4e-47f0-a9c1-9fdba8cae593.pdf)
+- [浙大外语飞跃手册](http://www.sis.zju.edu.cn/_upload/article/files/d1/4f/4bdc41fb43c998f58d9ea03b77c5/1af0ee6f-ca7e-4a9f-b100-b3161378590c.pdf)
+- [浙大电气飞跃手册](http://ee.zju.edu.cn/_upload/article/files/e5/cb/875540014b9489d2cec796955ea7/d1051aae-5958-4137-9ebd-f5b59fea0230.pdf)
+- [电力电子飞跃手册](https://zliao555.github.io/flying_brochure/)
+- [东南大学飞跃手册](https://www.yuque.com/2020seufly/guide), [2015版](https://jerrypiglet.gitbooks.io/2015_seu_abroad/content/)
+- [南京工业大学飞跃手册](https://github.com/yaoshun123/FLY_NJTech)
+- [欧洲留学飞跃手册](https://chaoli.club/index.php/6978/0)
+- [南开CS手册-出国版块](https://nkucs.icu/#/experiences/abroad/)
+- [华东理工飞跃手册](https://ecust-leap.github.io/)
+- [四川大学飞跃手册](https://scu-flying.com/#/)
+- [南京大学物理留学分享](https://jialanxin.github.io/njuphy-/)
+- [南京大学电子飞跃手册](https://picture.iczhiku.com/weixin/message1630843323166.html)
+- [西交利物浦手册-申请总结版块](https://awesome-xjtlu.github.io/wiki/#/grad-application/readme)
+- [武大数统飞跃手册](https://www.yuque.com/2020whumathstat/fly-sheet)
+- [大连理工飞跃手册](https://github.com/alexedinburgh/dutOverseas)
