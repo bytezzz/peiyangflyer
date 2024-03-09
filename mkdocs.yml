@@ -7,7 +7,8 @@ theme:
 nav:
   - Home: index.md
   - 内容征集: contribution.md
-  - 20级计科刘学长申请经验: christopher.md
+  - 24Fall CSPhD@NUS: christopher.md
+  - 24Fall MScISE@NUS: orange.md
 
 extra:
   analytics:
