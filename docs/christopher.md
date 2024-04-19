@@ -2,24 +2,25 @@
 
 - 智能与计算学部 2020 级计算机科学与技术
 - 申请情况汇总（2024-03-04）
-![image_2024-03-04-01-01-52](https://raw.githubusercontent.com/ChrisVicky/image-bed/main/2024-03/image_2024-03-04-01-01-52.png)
-
+  ![image_2024-03-04-01-01-52](https://raw.githubusercontent.com/ChrisVicky/image-bed/main/2024-03/image_2024-03-04-01-01-52.png)
 
 ## Intro
+
 - 本人较为佛系，原本计划只申请 Master，但希望是 Research-based，所以首先进行了 Potential Supervisor (PS) 的套瓷。最后因为 PS 的建议，我才申请了他的 PhD。
-- 由于我整个申请期只投递了两个 PhD *（第二个是因为 UoT 不允许外国人申请 Research-based Master）*，所以我的 case 应该不是很有代表性。仅供娱乐。
+- 由于我整个申请期只投递了两个 PhD _（第二个是因为 UoT 不允许外国人申请 Research-based Master）_，所以我的 case 应该不是很有代表性。仅供娱乐。
 
+## Background
 
-## Background 
 ### 标化
 
-| GPA       | GRE        | TOEFL                        | 
-|-----------|------------|------------------------------|
-| 90 / 3.78 | 314 (没交) | 104 (W 27, L 26, R 26, S 25) |
+| GPA       | TOEFL                        |
+| --------- | ---------------------------- |
+| 90 / 3.78 | 104 (W 27, L 26, R 26, S 25) |
 
 > - 可见我的标化成绩挺一般的，申请 Master 并没有优势。
 
 ### 科研
+
 > 从中介的角度来说，可以宣传成三段科研，哈哈。
 
 1. 大一找自动化实验室做过两个月，但不感兴趣，没能继续；
@@ -31,12 +32,14 @@
 > - 另外，其实很多暑研也很有帮助，且能拿到很好的 connection。不建议大家去 '购买' 暑研，自己 **主动** 邮件申请能学到更多。
 
 ### 实习、工程
+
 > 从中介的角度来说，可以有两段实习，乐。
 
 1. 学校组织的半学期 NXP 实习，要到了 **实习证明**；
 2. 天外天后端组，从大二下学期开始担任组长职务，负责过一堆项目；
 
 > - 实习的作用更多是让我明确，与其去实现别人的想法（做后端程序员），我更喜欢去实践自己的想法（做科研）;
+
 ## Application Timeline
 
 > 这里就只说 PhD 的 TL 了
@@ -49,32 +52,36 @@
 - 2024-02-07: Open House Invitation （提前 Offer）;
 - 2024-02-16: Offer Letter （正式 Offer）;
 
-## PS, CV  & Interview
+## PS, CV & Interview
 
 ### PS
+
 - PS 写作我挺赶的，直到11月才开始，大概就是从 "为什么 CS"，"为什么 Research" 和 "为什么 NUS" 的角度，对自己的研究经历和背景进行介绍，格式用 LaTeX 调整过，用小标题分隔，清晰明了
 - 用 ChatGPT 对语法进行了筛查（最好不要用 GPT 4.0 进行 Polish，会有点怪）
 - 充钱让写作中介进行 Polish，我看完后再重写了一遍。真实最重要。
 
-### CV 
+### CV
+
 - Overleaf 随便找了个 模板，简单描述一下 科研、实习、项目、硬条件等。
 
 ### Interview
+
 - Prof. 面：教授对我一作的Paper感兴趣，于是花了大约20分钟讨论该项目的Motivation、Solution 以及 Application；剩下的时间是闲聊，主要是我问问题。事先看过教授的文章，所以问了两个感兴趣的点，讨论了一下 System Research 和 Engineering 的区别（确实也是我做项目时的一个思考）
 - Committee 面：感觉像是从"博士面试问题100个"里抽的问题。对方很急，似乎是有 KPI，每个问题都没让我好好阐述，且有印度口音，语速很快。我事先知道是哪位老师面我，所以提前看过他的 lecture，熟悉口音。
 
 > PS: NUS 这边都是 英语教学，所以即使是**"中国人面孔"**，也是用 英语面试。
 
 ## Summary
+
 1. 真诚是必杀技，不仅是套瓷，在校内找教授做课题亦然
 2. 教授的方向匹配度很重要，Interview 时专门问了我 CS 的本科为什么要申请做网络的老师
 3. 我找的教授较为年轻，可能本身也缺学生，所以有 bias，请酌情借鉴
 
 ## 奖学金
+
 - 有朋友对奖学金情况感兴趣，所以这里介绍一下
 - 详细奖学金情况是公开的：https://nusgs.nus.edu.sg/wp-content/uploads/2023/11/NUS-Research-Scholarship-Terms-Condition-2023-11-23.pdf
 
 1. 首先，NUS 对“几乎所有” PhD 学生都提供 “免学费” + “月工资” 的奖学金，24 年“月工资”标准是 `2.7k SGD/Month`
 2. 根据 NUS Scholarship 的条款，如果你不认真读书，学校有权利中断奖学金
 3. 如果通过 QE （PhD 来说是开题报告），月工资涨 `500 SGD`
-
